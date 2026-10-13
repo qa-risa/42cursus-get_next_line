@@ -1,0 +1,7 @@
+main_test.c
+*.out
+*.txt
+/gnlTester
+/files
+main_stdin.c
+main_bonus_test.c
